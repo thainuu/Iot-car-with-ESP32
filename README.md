@@ -1,2 +1,3 @@
 # Schematic diagram:
-![Untitled](https://github.com/user-attachments/assets/518cb47d-b303-4b46-99df-1c76ce2efc33)
+![image](https://github.com/user-attachments/assets/678a71b8-f64f-4c96-b71e-1144ede56737)
+
