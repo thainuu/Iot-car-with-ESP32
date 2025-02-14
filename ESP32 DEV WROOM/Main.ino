@@ -1,9 +1,9 @@
-#define BLYNK_TEMPLATE_ID "TMPL6kU1GA2tx"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME "Xe Do Tham"
-#define BLYNK_AUTH_TOKEN "ZGhRVWlAzb8x3bJs2rVlIHvRgqAlWccy"
+#define BLYNK_AUTH_TOKEN ""
 
-char ssid[] = "WPA2-Personal";
-char pass[] = "1234567890";
+char ssid[] = "";
+char pass[] = "";
 
 bool fetch_blynk_state = true;  //true or false
 
