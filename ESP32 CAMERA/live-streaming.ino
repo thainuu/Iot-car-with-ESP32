@@ -8,8 +8,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "WPA2-Personal";
-const char* password = "1234567890";
+const char* ssid = "";
+const char* password = "";
 
 OV2640 cam;
 
